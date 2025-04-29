@@ -1,0 +1,1 @@
+Model published in IEEE paper "Impact of Network Topology on Neural Synchrony in a Model of the Subthalamic Nucleus-Globus Pallidus Circuit" (2023), Authors: Cathal McLaughlin, Madeleine Lowery, DOI:10.1109/TNSRE.2023.3346456/mm1
